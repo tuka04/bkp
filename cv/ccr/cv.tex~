@@ -1,0 +1,87 @@
+%*************************************************
+\documentclass[a4paper,10pt]{article}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+%codigo
+%\usepackage[latin1]{inputenc}
+\usepackage{amsthm,amsfonts,amsmath,amssymb}
+%img
+\usepackage{graphicx}
+\usepackage{subfig}
+%tabela
+
+%fim
+%fim
+\usepackage{listings}
+\usepackage{makeidx}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks,
+  linkcolor=blue,
+  filecolor=blue,
+  urlcolor=blue,
+  citecolor=blue
+}
+
+%titulo
+\title{Curriculum Vitae}
+\author{Leandro Kümmel Tria Mendes}
+%inicio
+\begin{document}
+\begin{center} 
+Curriculum Vitae
+\end{center} 
+\emph{Nome}: Leandro Kümmel Tria Mendes\\
+\emph{Contato}: leandro.kummel@gmail.com | (55) (11) 99721-7809\\
+\emph{Idade}: 29 anos (24/04/1986)\\
+\emph{Nacionalidade}: Brasileiro\\
+\section{Resumo}
+
+  Possui sólido conhecimento em gestão de projetos em TI, com mais de 11 anos de experiência, sendo 5 como gestor de projetos e operações e 6 como desenvolvedor e engenheiro de software. Experiências com guia PMBOK, desenvolvimento ágil Scrum, MSProject, Redmine, JAVA, PHP, Ruby, HTML/CSS, JavaScript, Python, MySQL, PostgreSQL e Linux.
+\section{Objetivo}
+
+  Foco em gestão de projetos, objetivando a formação de equipes de alto desempenho, além da constante colaboração no processo de ensino e aprendizem em equipe. 
+\section{Formação}
+\begin{itemize}
+\item \emph{Ensino Superior}: Graduado em Engenharia de Computação Unicamp 
+\item \emph{Ensino Médio}: Colégio Bandeirantes
+
+\end{itemize}
+\section{Experiências profissionais}
+\begin{itemize}
+
+\item \emph{Clickideia Tecnologia Educacional}: 
+  \subitem - Responsável pela gestão dos projetos e operação dos processos em TI.
+  \subitem - Domínio de todas as fases de um projeto (iniciação, planejamento, execução, monitoramento/controle e encerramento). Para as soluções de software utilizou-se o desenvolvimento ágil, \textbf{Scrum}, na fase de execução dos projetos. Já o restante a base utilizada foi o guia \textbf{PMBOK} e a principal ferramenta de auxílio \textbf{MSProject}.
+  \subitem - Encarregado pela montagem/contratação de equipes técnicas.
+  \subitem - Responsável pela reformulação do departamento de TI, criação e monitoramento dos processos a partir de indicadores (KPI). Esses foram reformulados a partir da observação de melhores práticas e resultados.
+  \subitem - Intendente pela elaboração de documentos técnicos para licitações públicas.
+  \subitem \emph{Principal Projeto}: Portal 3.0. Portal Web de educação a distância com ensino adaptativo (inteligência artificial) com base em análise da big data (data mining).
+
+\item \emph{Domane consultoria (Jan/2010 - Set/2013) PJ }: 
+  \subitem - Responsável pela gestão técnica dos projetos em TI. Principais atividades exercidas em engenharia de software.
+  \subitem - Uso do desenvolvimento ágil \textbf{Scrum} utilzando o \textbf{Redmine} como ferramenta de apoio. Responsável pela coleta de requisitos, desenvolvimento do escopo e cronograma (\textit{sprint}), escalonamento e delegação das tarefas, monitoramento/controle de qualidade.
+  \subitem - Intendente pela elaboração de relatórios técnicos para as áreas estratégica e operacional.
+  \subitem \emph{Principal Projeto}:  SiGe, Sistema Integrado de Gestão Empresarial, coleta de dados operacionais, apresentação de relatórios e indicações para o auxílio na tomada de decisões pelos gestores e dirigentes.
+
+\item \emph{Coordenadoria de Projetos e Obras Unicamp (Maio/2009 - Jan/2010) Bolsista}: 
+  \subitem - Responsável pela administração técnica do SigPOd (Sistema Integrado de Projetos e Obras)
+  \subitem - Desenvolvedor (Web) de novos módulos, com \textit{layout} responsivo.
+  \subitem - Principais linguagens \textbf{HTML/CSS, HTML5, JAVA (JSP, JSE), JavaScript (frameworks: Jquery [JSon], JqueryUI), MySQL}, ambiente Windows (servidores e estações).
+  
+\item \emph{Instituto de Biologia Unicamp (Ago/2008 - Fev/2009) Bolsista }: 
+  \subitem - Desenvolvedor (Web) de módulos para sistemas de ensino a distância para a rede pública do ensino médio.
+  \subitem - Linguagens \textbf{HTML/CSS, PHP5, JavaScript (frameworks: Jquery[JSon], JqueryUI) e PostgreSQL}, ambiente linux.
+
+\item \emph{Griffon (Dez/2006 - Nov/2008) CLT e PJ }: 
+  \subitem - Dez/2006 à Jun/2007 foi resposável pelo desenvolvimento de sistemas, intranet e portal de comunicação entre cliente e atendimento da empresa. 
+  \subitem - Linguagens \textbf{PHP5, HTML/CSS, AJAX(JavaScript + XML), MySQL}, ambiente linux.
+  \subitem - De Jun/2007 a Nov/2008 foi promovido a Diretor de Tecnologia, focado principalmente na gestão do projeto para a leitura, recorte e classificação das noticias publicadas nos Diários Oficiais. 
+
+\end{itemize}
+\section{Informações adicionais}
+\begin{itemize}
+\item \emph{Língua}: Inglês fluente, vivência de 4 meses na Nova Zelândia Dez/2008 à Mar/2009.
+\end{itemize}
+\end{document} 

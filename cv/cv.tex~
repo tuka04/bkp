@@ -1,0 +1,81 @@
+%*************************************************
+\documentclass[a4paper,10pt]{article}
+\usepackage[brazil]{babel}
+\usepackage[utf8]{inputenc}
+%codigo
+%\usepackage[latin1]{inputenc}
+\usepackage{amsthm,amsfonts,amsmath,amssymb}
+%img
+\usepackage{graphicx}
+\usepackage{subfig}
+%tabela
+
+%fim
+%fim
+\usepackage{listings}
+\usepackage{makeidx}
+\usepackage{enumerate}
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks,
+  linkcolor=blue,
+  filecolor=blue,
+  urlcolor=blue,
+  citecolor=blue
+}
+
+%titulo
+\title{Curriculum Vitae}
+\author{Leandro Kümmel Tria Mendes}
+%inicio
+\begin{document}
+\begin{center} 
+Curriculum Vitae
+\end{center} 
+\emph{Nome}: Leandro Kümmel Tria Mendes\\
+\emph{Contato}: leandro.kummel@gmail.com | (55) (11) 99721-7809\\
+\emph{Idade}: 29 anos (24/04/1986)\\
+\emph{Nacionalidade}: Brasileiro\\
+\section{Resumo}
+Possui sólido conhecimento em desenvolvimento, principalmente voltado à internet, com mais de 11 anos de experiência em diversos projetos que vão desde, um simples \emph{Gerenciador de Patentes} a um complexo \emph{Sistema de Ensino Adaptativo}. Experiências em [AQUI VAO AS CARACTERÍSTICAS TÉCNICAS DE ACORDO COM A VAGA] PHP, HTML/CSS, JavaScript (frameworks JQuery[UI], ExtJS e PrototypeJS), HTML5, C, Java, Python, MySQL, PostgreSQL e Linux.
+\section{Objetivo}
+Foco em estudos de data mining, aprendizado (não-)supervisionado, processamento de imagens e desenvolvimento web. [OBJETIVOS TÉCNICOS DE ACORDO COM A VAGA]
+\section{Formação}
+\begin{itemize}
+\item \emph{Ensino Superior}: Graduado em Engenharia de Computação Unicamp 
+\item \emph{Ensino Médio}: Colégio Bandeirantes
+
+\end{itemize}
+\section{Experiências profissionais [VARIAR DE ACORDO COM VAGA]}
+\begin{itemize}
+
+\item \emph{Clickideia Tecnologia Educacional}: 
+  \subitem - Responsável pela gestão dos projetos em TI.
+  \subitem - Domínio de todas as fases de um projeto (iniciação, planejamento, execução, monitoramento/controle e encerramento). Para as soluções de software utilizou-se o desenvolvimento ágil, \textbf{Scrum}, na fase de execução dos projetos. Já o restante a base utilizada foi o guia \textbf{PMBOK}.
+  \subitem - Encarregado pela montagem/contratação de equipes técnicas.
+  \subitem - Responsável pela reformulação do departamento de TI, subdividindo-o em três pilares os quais passaram a ser monitorados a partir de indicadores (KPI) e objetivando equipes de alto desempenho. Além disso, diversos processos existentes foram reformulados a partir da observação de melhores práticas e resultados.
+  \subitem - Intendente pela elaboração de documentos técnicos para licitações públicas.
+  \subitem \emph{Principal Projeto}: Portal 3.0. Portal Web de educação a distância com ensino adaptativo (inteligência artificial) com base em análise da big data (data mining).
+
+\item \emph{Domane consultoria (Jan/2010 - Jan/2013) PJ }: 
+  \subitem - Responsável pela gestão técnica dos projetos em TI.
+  \subitem - Uso do desenvolvimento ágil Scrum. Responsável pela coleta de requisitos, desenvolvimento do escopo e cronograma (\textit{sprint}), escalonamento das tarefas e monitoramento/controle de qualidade.
+  \subitem - Intendente pela elaboração de relatórios técnicos para as áreas estratégica e operacional.
+  \subitem \emph{Principal Projeto}:  SiGe, Sistema Integrado de Gestão Empresarial, coleta de dados operacionais, apresentação de relatórios e indicações para o auxílio na tomada de decisões pelos gestores e dirigentes.
+
+\item \emph{Coordenadoria de Projetos e Obras Unicamp (Maio/2009 - Jan/2010) Bolsista}: Responsável pela administração do SigPOd (Sistema Integrado de Projetos e Obras) e desenvolvimento de novos módulos, inclusive para mobiles/tablets (introdução do HTML5 para alguns módulos).Linguagens \textbf{HTML/CSS, HTML5, PHP5, JavaScript (frameworks: Jquery [JSon], JqueryUI), MySQL}
+  
+\item \emph{Instituto de Biologia Unicamp (Ago/2008 - Fev/2009) Bolsista }: Projeto de Ensino a Distância, desenvolvendo, principalmente os leiautes de cursos a distância para a rede pública do Ensino Médio, ambiente de desenvolvimento Linux, produção MacOs. Linguagens \textbf{HTML/CSS, PHP5, JavaScript (frameworks: Jquery[JSon], JqueryUI) e PostgreSQL}
+
+\item \emph{Griffon (Dez/2006 - Nov/2008) CLT e PJ }: De Dez/2006 à Jun/2007 foi resposável pelo desenvolvimento de alguns sistemas simples, tal como Intranet e portal de comunicação entre cliente e atendimento da empresa (incluindo sistema de chat). De Jun/2007 a Nov/2008 foi promovido a Diretor de Tecnologia, gerenciando projetos de grande complexidade, tal como a leitura e recorte das noticias publicadas no Diário Oficial (tanto da União quanto Estaduais), e a classificação das mesmas. Diferentes linguagens foram utilizadas, \textbf{PHP5, HTML/CSS, AJAX(JavaScript + XML), MySQL} para os projetos web, e \textbf{Java, Python (scikit-learn) e PostgreSQL} para o projetos de leitura e classificação das notícias. Sistema operacional de desenvolvimente e produção, Linux.
+
+\item \emph{Mandic (Jan/2006 - Dez/2006) PJ }: Desenvolvedor e coordenador do projeto WebMail 2.0. Projeto desenvolvido em \textbf{HTML/CSS, PHP5, PostgreSQL, AJAX(JavaScript + XML)}, ambiente Linux.
+  
+\item \emph{Inova Unicamp (Junho/2004 - Dez/2005) Bolsista }: Desenvolveu e administrou os sites da Agência de Inovação da Unicamp e da Incubadoras de empresas (Incamp) \textbf{[PHP4, MySQL, HTML/CSS e JavaScript]}, servidor de produção Windows e ambiente de desenvolvimento Linux.
+
+\end{itemize}
+\section{Informações adicionais}
+\begin{itemize}
+\item \emph{Língua}: Inglês fluente, vivência de 4 meses na Nova Zelândia Dez/2008 à Mar/2009.
+\end{itemize}
+\end{document} 
